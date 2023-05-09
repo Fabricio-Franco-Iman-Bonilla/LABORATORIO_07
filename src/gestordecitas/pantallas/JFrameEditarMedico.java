@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Estudiante
+ * @author Fabricio Iman
  */
 public class JFrameEditarMedico extends javax.swing.JFrame {
 

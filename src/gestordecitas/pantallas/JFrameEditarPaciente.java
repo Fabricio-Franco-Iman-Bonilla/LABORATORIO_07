@@ -9,7 +9,7 @@ import entidades.Paciente;
 
 /**
  *
- * @author Estudiante
+ * @author Fabricio Iman
  */
 public class JFrameEditarPaciente extends javax.swing.JFrame {
 

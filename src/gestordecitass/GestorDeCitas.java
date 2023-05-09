@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author Fabritzio
+ * @author Fabricio Iman
  */
 public class GestorDeCitas {
     

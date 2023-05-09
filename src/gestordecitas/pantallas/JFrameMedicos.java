@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Estudiante
+ * @author Fabricio Iman
  */
 public class JFrameMedicos extends javax.swing.JFrame {
 

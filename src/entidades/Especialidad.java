@@ -7,7 +7,7 @@ package entidades;
 
 /**
  *
- * @author Estudiante
+ * @author Fabricio Iman
  */
 public class Especialidad {
     private String  nombre;

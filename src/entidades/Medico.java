@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author Estudiante
+ * @author Fabricio Iman
  */
 public class Medico {
     

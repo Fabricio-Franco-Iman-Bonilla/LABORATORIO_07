@@ -14,7 +14,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Estudiante
+ * @author Fabricio Iman
  */
 public class JFrameCita extends javax.swing.JFrame {
 

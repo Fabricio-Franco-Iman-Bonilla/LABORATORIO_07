@@ -13,7 +13,7 @@ import javax.swing.JList;
 
 /**
  *
- * @author Estudiante
+ * @author Fabricio Iman
  */
 public class JFrameGestorDeCitas extends javax.swing.JFrame {
 
